@@ -1,0 +1,22 @@
+{
+  "name": "scrum_dashboard",
+  "version": "1.0.0",
+  "description": "This is a project management tools to improve the productivity of scrum methodology",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShengHsinHsu/dashboard.git"
+  },
+  "author": "Sheng Hsin Hsu (Peter)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShengHsinHsu/dashboard/issues"
+  },
+  "homepage": "https://github.com/ShengHsinHsu/dashboard#readme",
+  "devDependencies": {
+    "electron": "^5.0.1"
+  }
+}
